@@ -1,4 +1,4 @@
-package jdbctest;
+package jdbctests;
 
 import java.sql.*;
 
